@@ -40,3 +40,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# debug and dev logs
+dev.log
+build_output.txt
+
+# dev task lists and documentation dumps
+HARDCODED_VALUES_STATUS.md
+IMPROVEMENTS.md
+IMPROVEMENTS_PHASE3.md
